@@ -1,0 +1,15 @@
+# Cache and log files
+*.log
+*.sqlite
+
+# VS Code-specific files
+.vscode/
+*.code-workspace
+
+# Environment and Python-related files
+*.env
+__pycache__/
+*.pyc
+
+# Node.js dependencies
+node_modules/
